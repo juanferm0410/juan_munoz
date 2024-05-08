@@ -1,9 +1,9 @@
-from DivisiónGame import div
-from ModuloGame import mod
-from MultiplicaciónGame import mul
-from PotenciaGame import pot
-from RestaGame import res
-from SumaGame import add
+from División import div
+from Modulo import mod
+from Multiplicación import mul
+from Potencia import pot
+from Resta import res
+from Suma import add
 
 
 def game():    
